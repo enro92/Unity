@@ -1,0 +1,1284 @@
+fileFormatVersion: 2
+guid: 3270dbe181eb82848b743724b712d200
+timeCreated: 1447519263
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: arthaslichking
+    100002: arthaslichking 1
+    100004: arthaslichking_bone_0
+    100006: arthaslichking_bone_1
+    100008: arthaslichking_bone_10
+    100010: arthaslichking_bone_100
+    100012: arthaslichking_bone_101
+    100014: arthaslichking_bone_102
+    100016: arthaslichking_bone_103
+    100018: arthaslichking_bone_104
+    100020: arthaslichking_bone_105
+    100022: arthaslichking_bone_106
+    100024: arthaslichking_bone_107
+    100026: arthaslichking_bone_108
+    100028: arthaslichking_bone_109
+    100030: arthaslichking_bone_11
+    100032: arthaslichking_bone_110
+    100034: arthaslichking_bone_111
+    100036: arthaslichking_bone_112
+    100038: arthaslichking_bone_113
+    100040: arthaslichking_bone_114
+    100042: arthaslichking_bone_115
+    100044: arthaslichking_bone_116
+    100046: arthaslichking_bone_117
+    100048: arthaslichking_bone_118
+    100050: arthaslichking_bone_119
+    100052: arthaslichking_bone_12
+    100054: arthaslichking_bone_120
+    100056: arthaslichking_bone_121
+    100058: arthaslichking_bone_13
+    100060: arthaslichking_bone_14
+    100062: arthaslichking_bone_15
+    100064: arthaslichking_bone_16
+    100066: arthaslichking_bone_17
+    100068: arthaslichking_bone_18
+    100070: arthaslichking_bone_19
+    100072: arthaslichking_bone_2
+    100074: arthaslichking_bone_20
+    100076: arthaslichking_bone_21
+    100078: arthaslichking_bone_22
+    100080: arthaslichking_bone_23
+    100082: arthaslichking_bone_24
+    100084: arthaslichking_bone_25
+    100086: arthaslichking_bone_26
+    100088: arthaslichking_bone_27
+    100090: arthaslichking_bone_28
+    100092: arthaslichking_bone_29
+    100094: arthaslichking_bone_3
+    100096: arthaslichking_bone_30
+    100098: arthaslichking_bone_31
+    100100: arthaslichking_bone_32
+    100102: arthaslichking_bone_33
+    100104: arthaslichking_bone_34
+    100106: arthaslichking_bone_35
+    100108: arthaslichking_bone_36
+    100110: arthaslichking_bone_37
+    100112: arthaslichking_bone_38
+    100114: arthaslichking_bone_39
+    100116: arthaslichking_bone_4
+    100118: arthaslichking_bone_40
+    100120: arthaslichking_bone_41
+    100122: arthaslichking_bone_42
+    100124: arthaslichking_bone_43
+    100126: arthaslichking_bone_44
+    100128: arthaslichking_bone_45
+    100130: arthaslichking_bone_46
+    100132: arthaslichking_bone_47
+    100134: arthaslichking_bone_48
+    100136: arthaslichking_bone_49
+    100138: arthaslichking_bone_5
+    100140: arthaslichking_bone_50
+    100142: arthaslichking_bone_51
+    100144: arthaslichking_bone_52
+    100146: arthaslichking_bone_53
+    100148: arthaslichking_bone_54
+    100150: arthaslichking_bone_55
+    100152: arthaslichking_bone_56
+    100154: arthaslichking_bone_57
+    100156: arthaslichking_bone_58
+    100158: arthaslichking_bone_59
+    100160: arthaslichking_bone_6
+    100162: arthaslichking_bone_60
+    100164: arthaslichking_bone_61
+    100166: arthaslichking_bone_62
+    100168: arthaslichking_bone_63
+    100170: arthaslichking_bone_64
+    100172: arthaslichking_bone_65
+    100174: arthaslichking_bone_66
+    100176: arthaslichking_bone_67
+    100178: arthaslichking_bone_68
+    100180: arthaslichking_bone_69
+    100182: arthaslichking_bone_7
+    100184: arthaslichking_bone_70
+    100186: arthaslichking_bone_71
+    100188: arthaslichking_bone_72
+    100190: arthaslichking_bone_73
+    100192: arthaslichking_bone_74
+    100194: arthaslichking_bone_75
+    100196: arthaslichking_bone_76
+    100198: arthaslichking_bone_77
+    100200: arthaslichking_bone_78
+    100202: arthaslichking_bone_79
+    100204: arthaslichking_bone_8
+    100206: arthaslichking_bone_80
+    100208: arthaslichking_bone_81
+    100210: arthaslichking_bone_82
+    100212: arthaslichking_bone_83
+    100214: arthaslichking_bone_84
+    100216: arthaslichking_bone_85
+    100218: arthaslichking_bone_86
+    100220: arthaslichking_bone_87
+    100222: arthaslichking_bone_88
+    100224: arthaslichking_bone_89
+    100226: arthaslichking_bone_9
+    100228: arthaslichking_bone_90
+    100230: arthaslichking_bone_91
+    100232: arthaslichking_bone_92
+    100234: arthaslichking_bone_93
+    100236: arthaslichking_bone_94
+    100238: arthaslichking_bone_95
+    100240: arthaslichking_bone_96
+    100242: arthaslichking_bone_97
+    100244: arthaslichking_bone_98
+    100246: arthaslichking_bone_99
+    100248: //RootNode
+    400000: arthaslichking
+    400002: arthaslichking 1
+    400004: arthaslichking_bone_0
+    400006: arthaslichking_bone_1
+    400008: arthaslichking_bone_10
+    400010: arthaslichking_bone_100
+    400012: arthaslichking_bone_101
+    400014: arthaslichking_bone_102
+    400016: arthaslichking_bone_103
+    400018: arthaslichking_bone_104
+    400020: arthaslichking_bone_105
+    400022: arthaslichking_bone_106
+    400024: arthaslichking_bone_107
+    400026: arthaslichking_bone_108
+    400028: arthaslichking_bone_109
+    400030: arthaslichking_bone_11
+    400032: arthaslichking_bone_110
+    400034: arthaslichking_bone_111
+    400036: arthaslichking_bone_112
+    400038: arthaslichking_bone_113
+    400040: arthaslichking_bone_114
+    400042: arthaslichking_bone_115
+    400044: arthaslichking_bone_116
+    400046: arthaslichking_bone_117
+    400048: arthaslichking_bone_118
+    400050: arthaslichking_bone_119
+    400052: arthaslichking_bone_12
+    400054: arthaslichking_bone_120
+    400056: arthaslichking_bone_121
+    400058: arthaslichking_bone_13
+    400060: arthaslichking_bone_14
+    400062: arthaslichking_bone_15
+    400064: arthaslichking_bone_16
+    400066: arthaslichking_bone_17
+    400068: arthaslichking_bone_18
+    400070: arthaslichking_bone_19
+    400072: arthaslichking_bone_2
+    400074: arthaslichking_bone_20
+    400076: arthaslichking_bone_21
+    400078: arthaslichking_bone_22
+    400080: arthaslichking_bone_23
+    400082: arthaslichking_bone_24
+    400084: arthaslichking_bone_25
+    400086: arthaslichking_bone_26
+    400088: arthaslichking_bone_27
+    400090: arthaslichking_bone_28
+    400092: arthaslichking_bone_29
+    400094: arthaslichking_bone_3
+    400096: arthaslichking_bone_30
+    400098: arthaslichking_bone_31
+    400100: arthaslichking_bone_32
+    400102: arthaslichking_bone_33
+    400104: arthaslichking_bone_34
+    400106: arthaslichking_bone_35
+    400108: arthaslichking_bone_36
+    400110: arthaslichking_bone_37
+    400112: arthaslichking_bone_38
+    400114: arthaslichking_bone_39
+    400116: arthaslichking_bone_4
+    400118: arthaslichking_bone_40
+    400120: arthaslichking_bone_41
+    400122: arthaslichking_bone_42
+    400124: arthaslichking_bone_43
+    400126: arthaslichking_bone_44
+    400128: arthaslichking_bone_45
+    400130: arthaslichking_bone_46
+    400132: arthaslichking_bone_47
+    400134: arthaslichking_bone_48
+    400136: arthaslichking_bone_49
+    400138: arthaslichking_bone_5
+    400140: arthaslichking_bone_50
+    400142: arthaslichking_bone_51
+    400144: arthaslichking_bone_52
+    400146: arthaslichking_bone_53
+    400148: arthaslichking_bone_54
+    400150: arthaslichking_bone_55
+    400152: arthaslichking_bone_56
+    400154: arthaslichking_bone_57
+    400156: arthaslichking_bone_58
+    400158: arthaslichking_bone_59
+    400160: arthaslichking_bone_6
+    400162: arthaslichking_bone_60
+    400164: arthaslichking_bone_61
+    400166: arthaslichking_bone_62
+    400168: arthaslichking_bone_63
+    400170: arthaslichking_bone_64
+    400172: arthaslichking_bone_65
+    400174: arthaslichking_bone_66
+    400176: arthaslichking_bone_67
+    400178: arthaslichking_bone_68
+    400180: arthaslichking_bone_69
+    400182: arthaslichking_bone_7
+    400184: arthaslichking_bone_70
+    400186: arthaslichking_bone_71
+    400188: arthaslichking_bone_72
+    400190: arthaslichking_bone_73
+    400192: arthaslichking_bone_74
+    400194: arthaslichking_bone_75
+    400196: arthaslichking_bone_76
+    400198: arthaslichking_bone_77
+    400200: arthaslichking_bone_78
+    400202: arthaslichking_bone_79
+    400204: arthaslichking_bone_8
+    400206: arthaslichking_bone_80
+    400208: arthaslichking_bone_81
+    400210: arthaslichking_bone_82
+    400212: arthaslichking_bone_83
+    400214: arthaslichking_bone_84
+    400216: arthaslichking_bone_85
+    400218: arthaslichking_bone_86
+    400220: arthaslichking_bone_87
+    400222: arthaslichking_bone_88
+    400224: arthaslichking_bone_89
+    400226: arthaslichking_bone_9
+    400228: arthaslichking_bone_90
+    400230: arthaslichking_bone_91
+    400232: arthaslichking_bone_92
+    400234: arthaslichking_bone_93
+    400236: arthaslichking_bone_94
+    400238: arthaslichking_bone_95
+    400240: arthaslichking_bone_96
+    400242: arthaslichking_bone_97
+    400244: arthaslichking_bone_98
+    400246: arthaslichking_bone_99
+    400248: //RootNode
+    4300000: arthaslichking
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: arthaslichking
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human:
+    - boneName: arthaslichking_bone_1
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: arthaslichking_bone_6
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: arthaslichking_bone_7
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: arthaslichking_bone_13
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: arthaslichking_bone_14
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: arthaslichking_bone_22
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: arthaslichking_bone_24
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: arthaslichking_bone_2
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: arthaslichking_bone_4
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: arthaslichking_bone_8
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: arthaslichking_bone_15
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: arthaslichking_bone_9
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: arthaslichking_bone_10
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: arthaslichking_bone_16
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: arthaslichking_bone_17
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: arthaslichking_bone_27
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: arthaslichking_bone_28
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: arthaslichking_bone_34
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: arthaslichking_bone_35
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: arthaslichking_bone_32
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: arthaslichking_bone_33
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: arthaslichking_bone_26
+      humanName: Jaw
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: arthaslichking_bone_37
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: arthaslichking_bone_48
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: arthaslichking_bone_38
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: arthaslichking_bone_49
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: arthaslichking_bone_39
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: arthaslichking_bone_50
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: arthaslichking_bone_36
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: arthaslichking_bone_47
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: arthaslichking_bone_40
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: arthaslichking_bone_51
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: arthaslichking_bone_42
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: arthaslichking_bone_53
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: arthaslichking_bone_44
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: arthaslichking_bone_54
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: arthaslichking_bone_45
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: arthaslichking_bone_55
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: arthaslichking_bone_41
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: arthaslichking_bone_52
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: arthaslichking_bone_46
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: arthaslichking_bone_56
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: lich_King(Clone)
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: arthaslichking
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: .393700778, y: .393700778, z: .393700778}
+      transformModified: 1
+    - name: arthaslichking 1
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: .393700778, y: .393700778, z: .393700778}
+      transformModified: 1
+    - name: arthaslichking_bone_0
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: arthaslichking_bone_1
+      position: {x: .00178340345, y: 1.51196396, z: 0}
+      rotation: {x: .0509369001, y: .750376523, z: -.0734540299, w: -.654938936}
+      scale: {x: 1.00000012, y: 1, z: .99999994}
+      transformModified: 1
+    - name: arthaslichking_bone_3
+      position: {x: -.00750915892, y: -.0381927267, z: 6.05583184e-09}
+      rotation: {x: -.0879576728, y: -.993708074, z: .0159219988, w: .0674847439}
+      scale: {x: 1.00000036, y: .999999881, z: 1.00000024}
+      transformModified: 1
+    - name: arthaslichking_bone_5
+      position: {x: -.185583755, y: -.132753909, z: -6.05583184e-09}
+      rotation: {x: 1.86264559e-09, y: 1.07661231e-08, z: 5.72910031e-09, w: 1}
+      scale: {x: .999999821, y: .999999821, z: 1}
+      transformModified: 1
+    - name: arthaslichking_bone_12
+      position: {x: -.0372388847, y: -.192741141, z: -4.84466547e-08}
+      rotation: {x: -7.30391569e-09, y: 3.1991283e-09, z: 1.08825384e-08, w: 1}
+      scale: {x: 1.00000012, y: .999999881, z: 1.00000024}
+      transformModified: 1
+    - name: arthaslichking_bone_21
+      position: {x: -.00397165678, y: -.236171529, z: 0}
+      rotation: {x: 2.74996825e-08, y: -3.66662434e-08, z: -5.49993544e-08, w: 1}
+      scale: {x: .999999523, y: 1.00000036, z: .999999821}
+      transformModified: 1
+    - name: arthaslichking_bone_6
+      position: {x: -.014902724, y: -.105814762, z: -.167499378}
+      rotation: {x: 1.86264515e-09, y: -7.56699681e-09, z: 1.17446559e-08, w: 1}
+      scale: {x: .999999821, y: .999999762, z: .99999994}
+      transformModified: 1
+    - name: arthaslichking_bone_13
+      position: {x: .0517634079, y: -.631048024, z: -.0476535112}
+      rotation: {x: 6.44592424e-09, y: -9.39939149e-09, z: 2.70645035e-08, w: 1}
+      scale: {x: 1.00000036, y: 1, z: 1.00000024}
+      transformModified: 1
+    - name: arthaslichking_bone_22
+      position: {x: .103576913, y: -.603626728, z: -.0435996875}
+      rotation: {x: -5.58793589e-09, y: 7.68341213e-09, z: -4.47007373e-08, w: 1}
+      scale: {x: .999999881, y: .99999994, z: .99999994}
+      transformModified: 1
+    - name: arthaslichking_bone_32
+      position: {x: -.276669681, y: -.111146122, z: -.00676952396}
+      rotation: {x: 1.14582011e-09, y: 1.1641535e-10, z: 6.73444367e-09, w: 1}
+      scale: {x: 1.00000048, y: .999999821, z: 1.00000024}
+      transformModified: 1
+    - name: arthaslichking_bone_23
+      position: {x: -0, y: 4.84466547e-08, z: 2.42233273e-08}
+      rotation: {x: -3.29629568e-09, y: 7.68341213e-09, z: -3.92580901e-08, w: 1}
+      scale: {x: 1, y: .99999994, z: 1}
+      transformModified: 1
+    - name: arthaslichking_bone_7
+      position: {x: -.0149026029, y: -.10581544, z: .167499185}
+      rotation: {x: 2.29232722e-09, y: -2.59001176e-08, z: 8.02074052e-09, w: 1}
+      scale: {x: .999999464, y: 1, z: 1}
+      transformModified: 1
+    - name: arthaslichking_bone_14
+      position: {x: .051763311, y: -.631049335, z: .0476526022}
+      rotation: {x: -3.66662434e-08, y: -3.43195872e-09, z: -1.20338619e-08, w: 1}
+      scale: {x: 1.00000036, y: .999999821, z: .99999994}
+      transformModified: 1
+    - name: arthaslichking_bone_24
+      position: {x: .103576668, y: -.603625357, z: .0435980894}
+      rotation: {x: 3.53902614e-08, y: 1.49744963e-08, z: 5.15894127e-09, w: 1}
+      scale: {x: 1, y: 1, z: 1.00000036}
+      transformModified: 1
+    - name: arthaslichking_bone_33
+      position: {x: -.276669681, y: -.111145929, z: .00676982664}
+      rotation: {x: -1.10292069e-08, y: -1.59956415e-09, z: 1.14582011e-09, w: 1}
+      scale: {x: 1.00000012, y: 1, z: 1.00000024}
+      transformModified: 1
+    - name: arthaslichking_bone_25
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 2.62237005e-08, y: 1.95577758e-08, z: 2.86730062e-09, w: 1}
+      scale: {x: 1, y: 1.00000012, z: .999999881}
+      transformModified: 1
+    - name: arthaslichking_bone_2
+      position: {x: .0183414668, y: .028038308, z: 0}
+      rotation: {x: -.0879576653, y: -.993708074, z: .0159220006, w: .0674847364}
+      scale: {x: 1.00000036, y: .99999994, z: 1.00000012}
+      transformModified: 1
+    - name: arthaslichking_bone_78
+      position: {x: -.00297559355, y: .0474975854, z: -3.02791592e-09}
+      rotation: {x: 9.31322519e-10, y: -2.32830688e-09, z: -1.4901163e-08, w: 1}
+      scale: {x: .99999994, y: 1, z: .99999994}
+      transformModified: 1
+    - name: arthaslichking_bone_79
+      position: {x: -.00297559355, y: .0474975854, z: -3.02791592e-09}
+      rotation: {x: 9.31322519e-10, y: -2.32830688e-09, z: -1.4901163e-08, w: 1}
+      scale: {x: .99999994, y: 1, z: .99999994}
+      transformModified: 1
+    - name: arthaslichking_bone_80
+      position: {x: -.00297554513, y: .0474974886, z: 0}
+      rotation: {x: 9.31322519e-10, y: -2.32830688e-09, z: -1.4901163e-08, w: 1}
+      scale: {x: .99999994, y: 1, z: .99999994}
+      transformModified: 1
+    - name: arthaslichking_bone_81
+      position: {x: -.0029754967, y: -.0230578948, z: -6.05583184e-09}
+      rotation: {x: 9.31322519e-10, y: -2.32830688e-09, z: -1.4901163e-08, w: 1}
+      scale: {x: .99999994, y: 1, z: .99999994}
+      transformModified: 1
+    - name: arthaslichking_bone_82
+      position: {x: -.00297559355, y: .0474975854, z: -3.02791592e-09}
+      rotation: {x: 9.31322519e-10, y: -2.32830688e-09, z: -1.4901163e-08, w: 1}
+      scale: {x: .99999994, y: 1, z: .99999994}
+      transformModified: 1
+    - name: arthaslichking_bone_83
+      position: {x: -.00297559355, y: .0474975854, z: -3.02791592e-09}
+      rotation: {x: 9.31322519e-10, y: -2.32830688e-09, z: -1.4901163e-08, w: 1}
+      scale: {x: .99999994, y: 1, z: .99999994}
+      transformModified: 1
+    - name: arthaslichking_bone_84
+      position: {x: -.00297554513, y: .0474974886, z: 0}
+      rotation: {x: 9.31322519e-10, y: -2.32830688e-09, z: -1.4901163e-08, w: 1}
+      scale: {x: .99999994, y: 1, z: .99999994}
+      transformModified: 1
+    - name: arthaslichking_bone_85
+      position: {x: -.00297554513, y: .0474974886, z: 0}
+      rotation: {x: 9.31322519e-10, y: -2.32830688e-09, z: -1.4901163e-08, w: 1}
+      scale: {x: .99999994, y: 1, z: .99999994}
+      transformModified: 1
+    - name: arthaslichking_bone_86
+      position: {x: -.00297554513, y: .0474974886, z: 0}
+      rotation: {x: 9.31322519e-10, y: -2.32830688e-09, z: -1.4901163e-08, w: 1}
+      scale: {x: .99999994, y: 1, z: .99999994}
+      transformModified: 1
+    - name: arthaslichking_bone_87
+      position: {x: -.00297554513, y: .0474974886, z: 0}
+      rotation: {x: 9.31322519e-10, y: -2.32830688e-09, z: -1.4901163e-08, w: 1}
+      scale: {x: .99999994, y: 1, z: .99999994}
+      transformModified: 1
+    - name: arthaslichking_bone_88
+      position: {x: -.00297554513, y: .0474974886, z: 0}
+      rotation: {x: 9.31322519e-10, y: -2.32830688e-09, z: -1.4901163e-08, w: 1}
+      scale: {x: .99999994, y: 1, z: .99999994}
+      transformModified: 1
+    - name: arthaslichking_bone_89
+      position: {x: -.00297554513, y: .0474974886, z: 0}
+      rotation: {x: 9.31322519e-10, y: -2.32830688e-09, z: -1.4901163e-08, w: 1}
+      scale: {x: .99999994, y: 1, z: .99999994}
+      transformModified: 1
+    - name: arthaslichking_bone_90
+      position: {x: -.00297559355, y: -.0230580885, z: -3.02791592e-09}
+      rotation: {x: 9.31322519e-10, y: -2.32830688e-09, z: -1.4901163e-08, w: 1}
+      scale: {x: .99999994, y: 1, z: .99999994}
+      transformModified: 1
+    - name: arthaslichking_bone_4
+      position: {x: .083399415, y: .300238252, z: -3.02791592e-09}
+      rotation: {x: 2.00518491e-09, y: -4.4668651e-09, z: 1.22128965e-08, w: 1}
+      scale: {x: 1.00000048, y: .999999821, z: .999999821}
+      transformModified: 1
+    - name: arthaslichking_bone_91
+      position: {x: -.222866282, y: .015174849, z: 1.8167496e-08}
+      rotation: {x: 9.31322686e-10, y: 1.28056854e-08, z: -1.19262256e-17, w: 1}
+      scale: {x: 1, y: .99999994, z: .99999994}
+      transformModified: 1
+    - name: arthaslichking_bone_92
+      position: {x: .206352815, y: .136222497, z: 0}
+      rotation: {x: 9.31322686e-10, y: 1.28056854e-08, z: -1.19262256e-17, w: 1}
+      scale: {x: 1, y: .99999994, z: .99999994}
+      transformModified: 1
+    - name: arthaslichking_bone_93
+      position: {x: -.413771778, y: -.0653299242, z: -.0816564336}
+      rotation: {x: 9.31322686e-10, y: 1.28056854e-08, z: -1.19262256e-17, w: 1}
+      scale: {x: 1, y: .99999994, z: .99999994}
+      transformModified: 1
+    - name: arthaslichking_bone_96
+      position: {x: -2.42233273e-08, y: 0, z: -1.21116637e-08}
+      rotation: {x: 1.86264537e-09, y: 4.65661287e-09, z: -7.4505806e-09, w: 1}
+      scale: {x: 1, y: .99999994, z: 1}
+      transformModified: 1
+    - name: arthaslichking_bone_8
+      position: {x: -.0417001434, y: .36070317, z: 6.05583184e-09}
+      rotation: {x: -3.15100479e-09, y: 4.58328042e-09, z: -6.33781738e-09, w: 1}
+      scale: {x: .999999881, y: .999999821, z: .999999821}
+      transformModified: 1
+    - name: arthaslichking_bone_15
+      position: {x: -.0312749818, y: .139694378, z: 1.51395796e-09}
+      rotation: {x: 1.14581999e-09, y: 4.58328087e-09, z: 1.05988365e-08, w: 1}
+      scale: {x: .999999821, y: .99999994, z: .99999994}
+      transformModified: 1
+    - name: arthaslichking_bone_99
+      position: {x: .0131577598, y: .260847628, z: -3.02791592e-09}
+      rotation: {x: -1.86264471e-09, y: -4.65661287e-09, z: -7.4505806e-09, w: 1}
+      scale: {x: 1, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: arthaslichking_bone_102
+      position: {x: -.159212321, y: -.00977537222, z: 0}
+      rotation: {x: -1.86264471e-09, y: -4.65661287e-09, z: -7.4505806e-09, w: 1}
+      scale: {x: 1, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: arthaslichking_bone_103
+      position: {x: -.135713354, y: .0649764612, z: -.1023601}
+      rotation: {x: -1.86264471e-09, y: -4.65661287e-09, z: -7.4505806e-09, w: 1}
+      scale: {x: 1, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: arthaslichking_bone_104
+      position: {x: -.175568834, y: .0524435043, z: .0984393209}
+      rotation: {x: -1.86264471e-09, y: -4.65661287e-09, z: -7.4505806e-09, w: 1}
+      scale: {x: 1, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: arthaslichking_bone_105
+      position: {x: -.227570355, y: -.050756786, z: -1.51395803e-08}
+      rotation: {x: -1.86264471e-09, y: -4.65661287e-09, z: -7.4505806e-09, w: 1}
+      scale: {x: 1, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: arthaslichking_bone_106
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: -1.86264471e-09, y: -4.65661287e-09, z: -7.4505806e-09, w: 1}
+      scale: {x: 1, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: arthaslichking_bone_26
+      position: {x: -.117397584, y: -.000880566367, z: 6.05583184e-09}
+      rotation: {x: 1.14582022e-09, y: -4.58328042e-09, z: -1.34633868e-08, w: 1}
+      scale: {x: 1.00000024, y: 1.00000024, z: .99999994}
+      transformModified: 1
+    - name: arthaslichking_bone_9
+      position: {x: -.0206396077, y: .313056469, z: -.0953555629}
+      rotation: {x: -2.00518491e-09, y: 9.16656084e-09, z: -4.47586013e-09, w: 1}
+      scale: {x: .999999881, y: .999999821, z: .999999523}
+      transformModified: 1
+    - name: arthaslichking_bone_94
+      position: {x: -.0657353625, y: .00101873628, z: .0953555852}
+      rotation: {x: 1.86264515e-09, y: 3.91304411e-09, z: -3.56521923e-10, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: arthaslichking_bone_16
+      position: {x: .0135608548, y: -.0813351497, z: -.231756538}
+      rotation: {x: .567552686, y: .103922218, z: 1.49011612e-07, w: .816752255}
+      scale: {x: .999999404, y: .999999881, z: 1.0000006}
+      transformModified: 1
+    - name: arthaslichking_bone_98
+      position: {x: -.0147051709, y: .119242527, z: .0592480302}
+      rotation: {x: 7.45057882e-09, y: 1.11758709e-08, z: 7.4505806e-09, w: 1}
+      scale: {x: 1, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: arthaslichking_bone_101
+      position: {x: -.0123171257, y: .0240789559, z: -.13370356}
+      rotation: {x: 7.45057882e-09, y: 1.11758709e-08, z: 7.4505806e-09, w: 1}
+      scale: {x: 1, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: arthaslichking_bone_27
+      position: {x: .0796240047, y: -.434852332, z: -.144632548}
+      rotation: {x: .00982913375, y: -.0460795909, z: .132833689, w: .990017891}
+      scale: {x: .999999881, y: 1.00000024, z: 1.00000012}
+      transformModified: 1
+    - name: arthaslichking_bone_34
+      position: {x: -.0683950484, y: -.354929686, z: -.118062466}
+      rotation: {x: -.0475552641, y: .0100887083, z: -.00278001931, w: .998813808}
+      scale: {x: 1, y: 1.00000024, z: .99999994}
+      transformModified: 1
+    - name: arthaslichking_bone_107
+      position: {x: -.0161775015, y: -.133956745, z: -.00830520969}
+      rotation: {x: -1.49011612e-08, y: 2.23517436e-08, z: 1.4901163e-08, w: 1}
+      scale: {x: .99999994, y: 1, z: 1}
+      transformModified: 1
+    - name: arthaslichking_bone_108
+      position: {x: .00220732647, y: -.123933129, z: -.0859016329}
+      rotation: {x: -1.49011612e-08, y: 2.23517436e-08, z: 1.4901163e-08, w: 1}
+      scale: {x: .99999994, y: 1, z: 1}
+      transformModified: 1
+    - name: arthaslichking_bone_109
+      position: {x: -.016193876, y: -.133958489, z: -.00829251669}
+      rotation: {x: -1.49011612e-08, y: 2.23517436e-08, z: 1.4901163e-08, w: 1}
+      scale: {x: .99999994, y: 1, z: 1}
+      transformModified: 1
+    - name: arthaslichking_bone_110
+      position: {x: -.0161937792, y: -.133958578, z: -.00829261355}
+      rotation: {x: -1.49011612e-08, y: 2.23517436e-08, z: 1.4901163e-08, w: 1}
+      scale: {x: .99999994, y: 1, z: 1}
+      transformModified: 1
+    - name: arthaslichking_bone_36
+      position: {x: .0199011099, y: -.140910968, z: -.0963671803}
+      rotation: {x: .274518251, y: -.0614178181, z: .0200052764, w: .959409952}
+      scale: {x: 1.00000024, y: .999999821, z: 1.00000024}
+      transformModified: 1
+    - name: arthaslichking_bone_47
+      position: {x: -.0279353093, y: -.119456321, z: .0165961776}
+      rotation: {x: -3.88222219e-08, y: 1.66473946e-08, z: 2.34810695e-08, w: 1}
+      scale: {x: .99999994, y: .999999702, z: 1}
+      transformModified: 1
+    - name: arthaslichking_bone_37
+      position: {x: -.0613552667, y: -.038171798, z: .0150126498}
+      rotation: {x: .184274942, y: -.106424488, z: -.236625686, w: .948011041}
+      scale: {x: .999999523, y: .999999523, z: .99999994}
+      transformModified: 1
+    - name: arthaslichking_bone_48
+      position: {x: -.0373007283, y: -.0777632743, z: .0059262854}
+      rotation: {x: 5.58793634e-09, y: -2.63657753e-08, z: 3.03669836e-08, w: 1}
+      scale: {x: 1.00000012, y: 1, z: .999999881}
+      transformModified: 1
+    - name: arthaslichking_bone_38
+      position: {x: -.0826229602, y: -.133799881, z: -.0871155113}
+      rotation: {x: .281645775, y: -.0684099942, z: .0287396479, w: .956645012}
+      scale: {x: 1, y: .999999881, z: 1.00000024}
+      transformModified: 1
+    - name: arthaslichking_bone_49
+      position: {x: -.0306776818, y: -.118482783, z: .0186090376}
+      rotation: {x: -3.88222219e-08, y: 1.66473946e-08, z: 2.34810695e-08, w: 1}
+      scale: {x: 1.00000012, y: .99999994, z: 1}
+      transformModified: 1
+    - name: arthaslichking_bone_39
+      position: {x: -.0252262708, y: -.143455192, z: -.0942558721}
+      rotation: {x: .279993057, y: -.0677667484, z: .0282029714, w: .957191885}
+      scale: {x: .999999821, y: .999999821, z: 1.00000024}
+      transformModified: 1
+    - name: arthaslichking_bone_50
+      position: {x: -.0314122289, y: -.122000642, z: .0187076759}
+      rotation: {x: -2.15597717e-09, y: -1.68573266e-09, z: -4.01862232e-09, w: 1}
+      scale: {x: .999999881, y: .999999762, z: 1.00000012}
+      transformModified: 1
+    - name: arthaslichking_bone_40
+      position: {x: .0635626912, y: -.130846471, z: -.0830260366}
+      rotation: {x: .259558588, y: -.0551374517, z: .0144504849, w: .964043796}
+      scale: {x: 1.00000012, y: .999999821, z: .99999994}
+      transformModified: 1
+    - name: arthaslichking_bone_51
+      position: {x: -.0233260952, y: -.106841639, z: .0113151036}
+      rotation: {x: 1.64704748e-08, y: -2.21189129e-08, z: 3.32342829e-08, w: 1}
+      scale: {x: .999999881, y: 1.00000012, z: 1.00000036}
+      transformModified: 1
+    - name: arthaslichking_bone_10
+      position: {x: -.0206398498, y: .313054711, z: .0953551382}
+      rotation: {x: 2.86455276e-10, y: 9.16656084e-09, z: -1.75095636e-08, w: 1}
+      scale: {x: .999999881, y: 1, z: .999999523}
+      transformModified: 1
+    - name: arthaslichking_bone_95
+      position: {x: -.0657351315, y: .00101854245, z: -.0953551307}
+      rotation: {x: -8.32667798e-17, y: -2.79396861e-09, z: -2.9802333e-08, w: 1}
+      scale: {x: .999999821, y: .999999821, z: .999999881}
+      transformModified: 1
+    - name: arthaslichking_bone_17
+      position: {x: .0135604609, y: -.0813324377, z: .2317563}
+      rotation: {x: -.567552865, y: -.103922233, z: -1.49011626e-07, w: .816752076}
+      scale: {x: .999999821, y: .999999702, z: 1.0000006}
+      transformModified: 1
+    - name: arthaslichking_bone_97
+      position: {x: -.0147050619, y: .119242527, z: -.0592436232}
+      rotation: {x: 2.79396817e-09, y: 1.07102096e-08, z: -1.49011612e-08, w: 1}
+      scale: {x: 1, y: .99999994, z: 1.00000012}
+      transformModified: 1
+    - name: arthaslichking_bone_100
+      position: {x: -.0123173194, y: .0240793433, z: .133685976}
+      rotation: {x: 2.79396817e-09, y: 1.07102096e-08, z: -1.49011612e-08, w: 1}
+      scale: {x: 1, y: .99999994, z: 1.00000012}
+      transformModified: 1
+    - name: arthaslichking_bone_28
+      position: {x: .0796237737, y: -.434851736, z: .14463225}
+      rotation: {x: -.00982902851, y: .0460793637, z: .132833675, w: .990017831}
+      scale: {x: .999999702, y: .999999762, z: 1.00000036}
+      transformModified: 1
+    - name: arthaslichking_bone_35
+      position: {x: -.068395026, y: -.354929298, z: .118062168}
+      rotation: {x: .0475599356, y: -.0100896964, z: -.0027803781, w: .99881357}
+      scale: {x: 1.00000024, y: 1.00000024, z: .999999881}
+      transformModified: 1
+    - name: arthaslichking_bone_111
+      position: {x: -.0161937904, y: -.133958682, z: .0151673397}
+      rotation: {x: -3.72529163e-09, y: 3.72529074e-09, z: 7.45058149e-09, w: 1}
+      scale: {x: .99999994, y: .999999881, z: .999999881}
+      transformModified: 1
+    - name: arthaslichking_bone_41
+      position: {x: .0199016687, y: -.140913591, z: .0963680968}
+      rotation: {x: -.274516314, y: .0614209697, z: .0200104136, w: .959410191}
+      scale: {x: .999999583, y: 1.00000012, z: .999999642}
+      transformModified: 1
+    - name: arthaslichking_bone_52
+      position: {x: -.0279365219, y: -.119453751, z: -.0165940449}
+      rotation: {x: 1.86264537e-09, y: 5.84826676e-09, z: 1.94844425e-08, w: 1}
+      scale: {x: .999999821, y: .99999994, z: 1.00000012}
+      transformModified: 1
+    - name: arthaslichking_bone_42
+      position: {x: -.0613553636, y: -.0381741226, z: -.015010518}
+      rotation: {x: -.184275001, y: .106425859, z: -.236621842, w: .948011816}
+      scale: {x: .999999642, y: 1, z: .99999994}
+      transformModified: 1
+    - name: arthaslichking_bone_53
+      position: {x: -.0373012125, y: -.0777624026, z: -.00592599483}
+      rotation: {x: 7.01883396e-09, y: 3.32342829e-08, z: -3.43746045e-08, w: 1}
+      scale: {x: .99999994, y: 1, z: 1}
+      transformModified: 1
+    - name: arthaslichking_bone_44
+      position: {x: -.0826225504, y: -.133800939, z: .0871201679}
+      rotation: {x: -.281647027, y: .0684123486, z: .0287424084, w: .956644475}
+      scale: {x: .999999583, y: 1.00000036, z: .999999225}
+      transformModified: 1
+    - name: arthaslichking_bone_54
+      position: {x: -.0306788441, y: -.118483849, z: -.0186083838}
+      rotation: {x: 2.15597473e-09, y: -3.53297622e-08, z: 1.71597703e-09, w: 1}
+      scale: {x: .999999821, y: .999999821, z: 1.00000036}
+      transformModified: 1
+    - name: arthaslichking_bone_45
+      position: {x: -.0252265371, y: -.14345704, z: .0942589715}
+      rotation: {x: -.279995084, y: .0677692443, z: .0282057282, w: .95719099}
+      scale: {x: .999999583, y: 1.00000036, z: .999999642}
+      transformModified: 1
+    - name: arthaslichking_bone_55
+      position: {x: -.0314132459, y: -.122000888, z: -.0187070221}
+      rotation: {x: 2.15597473e-09, y: -3.53297622e-08, z: 1.71597703e-09, w: 1}
+      scale: {x: .999999762, y: .999999821, z: 1.00000048}
+      transformModified: 1
+    - name: arthaslichking_bone_46
+      position: {x: .0635630488, y: -.130849272, z: .0830254033}
+      rotation: {x: -.259554416, y: .0551384576, z: .014452965, w: .964044809}
+      scale: {x: .999999881, y: 1.00000036, z: .999999642}
+      transformModified: 1
+    - name: arthaslichking_bone_56
+      position: {x: -.02332698, y: -.106842317, z: -.0113130687}
+      rotation: {x: 2.15597473e-09, y: -3.53297622e-08, z: 1.71597703e-09, w: 1}
+      scale: {x: .999999821, y: .999999821, z: 1.00000048}
+      transformModified: 1
+    - name: arthaslichking_bone_43
+      position: {x: -.0421644785, y: -.128712788, z: .0267177001}
+      rotation: {x: -2.72063505e-09, y: 2.4067722e-08, z: 8.0234912e-09, w: 1}
+      scale: {x: .999999881, y: .999999702, z: .99999994}
+      transformModified: 1
+    - name: arthaslichking_bone_112
+      position: {x: -.528424203, y: -.0403049029, z: .00827304181}
+      rotation: {x: 4.58075418e-18, y: -9.83709469e-09, z: 4.65661287e-10, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: arthaslichking_bone_113
+      position: {x: -.00020572872, y: .000545218645, z: -.00605510501}
+      rotation: {x: 4.58075418e-18, y: -9.83709469e-09, z: 4.65661287e-10, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: arthaslichking_bone_114
+      position: {x: -1.48921585, y: -.115159541, z: .0343277492}
+      rotation: {x: 4.58075418e-18, y: -9.83709469e-09, z: 4.65661287e-10, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: arthaslichking_bone_115
+      position: {x: -1.7670809, y: -.136807546, z: .0418629982}
+      rotation: {x: 4.58075418e-18, y: -9.83709469e-09, z: 4.65661287e-10, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: arthaslichking_bone_116
+      position: {x: -1.90578747, y: -.124860205, z: .0403867774}
+      rotation: {x: 4.58075418e-18, y: -9.83709469e-09, z: 4.65661287e-10, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: arthaslichking_bone_117
+      position: {x: -.989050984, y: -.0780712962, z: .0146779316}
+      rotation: {x: 4.58075418e-18, y: -9.83709469e-09, z: 4.65661287e-10, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: arthaslichking_bone_118
+      position: {x: -.989050984, y: -.0780712962, z: .0146779316}
+      rotation: {x: 4.58075418e-18, y: -9.83709469e-09, z: 4.65661287e-10, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: arthaslichking_bone_119
+      position: {x: -.00020572872, y: .000545218645, z: -.00605510501}
+      rotation: {x: 4.58075418e-18, y: -9.83709469e-09, z: 4.65661287e-10, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: arthaslichking_bone_120
+      position: {x: -.379324287, y: -.0273019187, z: .00424828706}
+      rotation: {x: 4.58075418e-18, y: -9.83709469e-09, z: 4.65661287e-10, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: arthaslichking_bone_121
+      position: {x: -1.99978805, y: -.15493764, z: .0481734648}
+      rotation: {x: 4.58075418e-18, y: -9.83709469e-09, z: 4.65661287e-10, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: arthaslichking_bone_11
+      position: {x: .275835872, y: .0536695905, z: -.00131945673}
+      rotation: {x: -1.86264537e-09, y: 7.45058149e-09, z: -1.03151319e-08, w: 1}
+      scale: {x: .99999994, y: 1.00000012, z: 1.00000012}
+      transformModified: 1
+    - name: arthaslichking_bone_18
+      position: {x: .129132807, y: -.542920828, z: -.00165071676}
+      rotation: {x: 1.14581966e-09, y: -4.4668651e-09, z: 2.8146955e-08, w: 1}
+      scale: {x: .999999821, y: .999999821, z: 1.00000012}
+      transformModified: 1
+    - name: arthaslichking_bone_29
+      position: {x: .159222931, y: -.479917198, z: .000550517521}
+      rotation: {x: 7.30391791e-09, y: 3.66662434e-08, z: 1.43144989e-08, w: 1}
+      scale: {x: 1.00000024, y: 1.00000012, z: 1.0000006}
+      transformModified: 1
+    - name: arthaslichking_bone_19
+      position: {x: .0187184308, y: -.575290561, z: .482328683}
+      rotation: {x: 9.16655996e-09, y: -1.82167081e-08, z: 1.89087839e-08, w: 1}
+      scale: {x: .999999821, y: .999999821, z: .999999821}
+      transformModified: 1
+    - name: arthaslichking_bone_30
+      position: {x: .0974366888, y: -.437677443, z: .0544658117}
+      rotation: {x: -2.00931116e-09, y: -2.50063814e-09, z: 3.43195894e-09, w: 1}
+      scale: {x: 1, y: .99999994, z: 1.00000036}
+      transformModified: 1
+    - name: arthaslichking_bone_20
+      position: {x: .0187193993, y: -.575291038, z: -.482327908}
+      rotation: {x: 2.86454999e-10, y: 1.16415336e-10, z: 1.20338619e-08, w: 1}
+      scale: {x: 1.00000024, y: 1.00000012, z: .999999821}
+      transformModified: 1
+    - name: arthaslichking_bone_31
+      position: {x: .0974367857, y: -.437676966, z: -.0544652306}
+      rotation: {x: -1.86264582e-09, y: -9.16655996e-09, z: -1.48984105e-08, w: 1}
+      scale: {x: 1, y: .99999994, z: 1.00000012}
+      transformModified: 1
+    - name: arthaslichking_bone_57
+      position: {x: .0981003344, y: 2.80966353, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: arthaslichking_bone_58
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: arthaslichking_bone_59
+      position: {x: .106281616, y: 2.57448626, z: 1.15505826e-14}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: arthaslichking_bone_60
+      position: {x: -.142617226, y: 1.7816695, z: 1.15505826e-14}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: arthaslichking_bone_61
+      position: {x: .0743302032, y: 1.14822114, z: .604202688}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: arthaslichking_bone_62
+      position: {x: -.201328784, y: -7.21911411e-16, z: .138964504}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: arthaslichking_bone_63
+      position: {x: -.280596346, y: 1.44382282e-15, z: -.215652019}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: arthaslichking_bone_64
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: arthaslichking_bone_65
+      position: {x: -.00342239859, y: -.00309318746, z: -.144266054}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: arthaslichking_bone_66
+      position: {x: -.197529271, y: 4.62006619e-06, z: .135662436}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: arthaslichking_bone_67
+      position: {x: -.334790349, y: -7.21911411e-16, z: .233007148}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: arthaslichking_bone_68
+      position: {x: -.466884345, y: 7.21911411e-16, z: -.202993661}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: arthaslichking_bone_69
+      position: {x: -.0815010294, y: 0, z: -.235925138}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: arthaslichking_bone_70
+      position: {x: -.000567187555, y: -1.44382282e-15, z: .209935397}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: arthaslichking_bone_71
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: arthaslichking_bone_72
+      position: {x: .225693703, y: 3.60955705e-16, z: -.129712284}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: arthaslichking_bone_73
+      position: {x: .244617119, y: -1.08286714e-15, z: .120197885}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: arthaslichking_bone_74
+      position: {x: .145066455, y: -7.21911411e-16, z: .104235627}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: arthaslichking_bone_75
+      position: {x: .144063398, y: 7.21911411e-16, z: -.116818242}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: arthaslichking_bone_76
+      position: {x: .134230614, y: -.019414613, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: arthaslichking_bone_77
+      position: {x: -0, y: 1.49192977, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

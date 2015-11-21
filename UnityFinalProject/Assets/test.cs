@@ -5,10 +5,8 @@ public class test : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-
-
 		int i = 4;
-		int a = 0;
+		int a = 1;
 	}
 	// Update is called once per frame
 	void Update () {
